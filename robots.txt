@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /js/
-Disallow: /img/
-Disallow: /css/
 
 # Website Sitemap should always be at the end of the robots.txt file
 Sitemap: https://www.donkeyfarmgames.nl/sitemap.xml
