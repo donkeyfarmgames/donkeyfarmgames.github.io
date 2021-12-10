@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.27665ddc516d368f1e47a75a8e1216f8.js"
+  "/app/precache-manifest.d5ec2c5be650ea53fe331af32eea61ba.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fusion-factory-app"});
